@@ -17,6 +17,6 @@ Scikit-learn
 XGBoost
 Matplotlib
 Seaborn
-Installation
+
 
 
