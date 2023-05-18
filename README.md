@@ -14,3 +14,6 @@ Table of Contents
 * Modeling
 * Evaluation
 * Conclusion
+
+
+[Take a quick look ](https://nbviewer.org/github/facf00/Credit-Card---Churn-Rate/blob/main/Credit_card_churn.ipynb)
